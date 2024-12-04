@@ -30,7 +30,7 @@ include 'config.php';
               <div class="col-12">
                 <div class="mb-5">
                 <!-- <fieldset class="border p-3 mb-4"> -->
-                  <h2 class="h3 mt-2 ">Registration Apertment/Housing Complex
+                  <h2 class="h3 mt-2 ">Registration Apertment/housing complex
                   </h2>
                   <h3 class="fs-6 fw-normal text-secondary m-0">Enter your details to register</h3>
                 </div>
