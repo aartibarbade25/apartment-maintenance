@@ -17,7 +17,7 @@ $phone = isset($_GET['phone']) ? htmlspecialchars($_GET['phone']) : '';
                 <input type="hidden" name="phone" value="<?php echo $phone; ?>">
                 
             </div>
-            <button type="submit" class="btn btn-primary w-100">Verify OTP</button>
+            <button type="submit" class="btn btn-primary w-100">VERIFY OTP</button>
         </form>
     </div>
 </div>
