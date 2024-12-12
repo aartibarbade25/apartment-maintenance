@@ -7,7 +7,7 @@ include "header.php";
 <div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
     <div class="form-containermobile shadow-lg " style="width: 100%; max-width: 400px; margin-top: 50px;">
         <h2 class="text-center mb-4">Create New Account</h2>
-        <p class="text-center">Have an account? <a href="#">LOgin</a></p>
+        <p class="text-center">Have an account? <a href="#">Login</a></p>
         <form action="process.php" method="POST">
             <div class="mb-3 input-group">
                 <select class="form-select ms-3 me-3" name="country_code" style="max-width: 100px;" required>
