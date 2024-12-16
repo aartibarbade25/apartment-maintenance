@@ -13,8 +13,8 @@ include "header.php";
         </div>
         <form>
             <div class="mb-3">
-                <label for="username" class="form-label">User Mobile</label>
-                <input type="text" class="form-control" id="username" placeholder="Enter your mobile number" required>
+                <label for="username" class="form-label">User Email</label>
+                <input type="text" class="form-control" id="username" placeholder="Enter your Email" required>
             </div>
             <div class="mb-3">
                 <label for="password" class="form-label">Password</label>
@@ -28,7 +28,7 @@ include "header.php";
         </form>
         <div class="form-footer">
             <a href="#">I forgot my password</a><br>
-            <a href="#">Register your Apartment/Housing Complex</a>
+            <a href="registration.php">Register your Apartment/Housing Complex</a>
         </div>
 
  
